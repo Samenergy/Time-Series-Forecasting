@@ -71,7 +71,7 @@ Time-Series-Forecasting/
 
 ```bash
 git clone https://github.com/Samenergy/Time-Series-Forecasting.git
-cd pm2.5-lstm-predictor
+cd Time-Series-Forecasting
 ```
 
 ### 2. Install dependencies
@@ -105,5 +105,5 @@ Feel free to fork, open issues, or submit PRs if you find ways to improve the mo
 
 ## 📬 Contact
 
-Built with ❤️ by [Samuel Dushime](https://github.com/Samenergy)
+Built by [Samuel Dushime](https://github.com/Samenergy)
 
